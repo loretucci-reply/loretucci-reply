@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @loretucci-reply
+- 👋 Hi, I’m Lorenzo Loretucci 
 - 👀 I’m interested in Data Science
 - 🌱 I’m working on Target Reply Rome 
 - 📫 How to reach me: l.loretucci@reply.it
